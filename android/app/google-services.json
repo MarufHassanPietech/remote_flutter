@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446876370441",
+    "project_id": "flutter-remote-204f8",
+    "storage_bucket": "flutter-remote-204f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446876370441:android:1f7edf67f538fc278e9ad8",
+        "android_client_info": {
+          "package_name": "com.example.remote_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMXFT2pBHNuuOZUSNqBvVrTdIv7ETYY84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
